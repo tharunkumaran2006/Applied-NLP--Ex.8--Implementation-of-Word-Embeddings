@@ -1,0 +1,1 @@
+# Applied-NLP--Ex.8--Implementation-of-Word-Embeddings
